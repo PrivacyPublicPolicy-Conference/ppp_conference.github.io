@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "Section on Bayesian Education Research and Practice (BERaP)"
+  title: "Privacy and Public Policy Conference"
   navbar:
     left:
       - href: index.qmd
