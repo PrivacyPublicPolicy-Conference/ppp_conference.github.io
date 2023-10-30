@@ -1,0 +1,24 @@
+---
+title: "Privacy and Public Policy Conference"
+subtitle: "Georgetown Massive Data Insitute, September 13-14, 2024"
+---
+
+Click [here](https://docs.google.com/forms/d/e/1FAIpQLSe3JWSrB8U0adk_INZ5eQaMaeGV7-P5muDX_LUXKoRp72x89w/viewform) to sign up!
+
+Links to abstract templates:
+
+-   [LaTeX](https://www.overleaf.com/read/kvwpjnsqyybh#a2f234)
+
+-   [GoogleDoc/Word](https://docs.google.com/document/d/1H6g1bBp7C6wcpzU31DsyWPaiTiMM1gNI/edit)
+
+Program timeline:
+
+-   **Calls for Participation:** November 1, 2023.
+
+-   **Reminder Calls:** December 2023, January 2024, and February 2024.
+
+-   **Abstract Submission Deadline:** February 29, 2024.
+
+-   **Reviews Completion:** April 8, 2024.
+
+-   **Program Announcement:** May 20, 2024.
