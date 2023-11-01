@@ -30,6 +30,14 @@ If you are interested in volunteering, please reach out to Jingchen (Monika) Hu 
 
 ![V. Joseph Hotz is the Arts and Sciences Distinguished Professor of Economics and Public Policy at Duke University. His research areas include the economics of the family, economic demography, labor economics, population health, and applied econometrics.](figs/joe_profile.jpg){fig-align="left" width="150"}
 
+## **Program Committee Members**
+
+Lu Chen, National Institute of Statistical Sciences/USDA, NASS
+
+Michael Hawes, United States Census Bureau
+
+Joshua Snoke, RAND Corp.
+
 ## **Reviewers**
 
 Alyssa Columbus, Johns Hopkins University
@@ -48,7 +56,7 @@ Zixin Nie, RTI International
 
 Don Jang, NORC
 
-Scott Holan, University of Missouri/US Census
+Scott Holan, University of Missouri/United States Census Bureau
 
 Christine Task, Knexus Research Corporation
 
