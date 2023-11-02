@@ -1,6 +1,8 @@
 ---
-title: "Co-Chairs"
+title: "Co-Chairs and Volunteers"
 ---
+
+If you are interested in volunteering, please reach out to Jingchen (Monika) Hu at jihu at vassar dot edu.
 
 ## **Planning Committee Co-Chairs**
 
@@ -27,3 +29,43 @@ title: "Co-Chairs"
 ***V. Joseph Hotz***
 
 ![V. Joseph Hotz is the Arts and Sciences Distinguished Professor of Economics and Public Policy at Duke University. His research areas include the economics of the family, economic demography, labor economics, population health, and applied econometrics.](figs/joe_profile.jpg){fig-align="left" width="150"}
+
+## **Program Committee Members**
+
+Lu Chen, National Institute of Statistical Sciences/USDA, NASS
+
+Michael Hawes, United States Census Bureau
+
+Joshua Snoke, RAND Corp.
+
+## **Reviewers**
+
+Alyssa Columbus, Johns Hopkins University
+
+Minsun Riddles, Westat
+
+Justin Doty, United States Census Bureau
+
+Hang Kim, University of Cincinnati
+
+Zach Terner, The MITRE Corporation
+
+James Bailie, Statistics Department, Harvard University
+
+Zixin Nie, RTI International
+
+Don Jang, NORC
+
+Scott Holan, University of Missouri/United States Census Bureau
+
+Christine Task, Knexus Research Corporation
+
+Michael Jacobson, NASS
+
+Jae June Lee, Georgetown Center on Poverty & Inequality
+
+Rob Chew, RTI International
+
+Michael Jacobsen, USDA-NASS
+
+Norm Matloff, University of California, Davis

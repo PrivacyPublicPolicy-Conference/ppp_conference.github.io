@@ -4,27 +4,69 @@
     "href": "index.html",
     "title": "Privacy and Public Policy Conference",
     "section": "",
-    "text": "Click here to sign up!\nLinks to abstract templates:\n\nLaTeX\nGoogleDoc/Word\n\nProgram timeline:\n\nCalls for Participation: November 1, 2023.\nReminder Calls: December 2023, January 2024, and February 2024.\nAbstract Submission Deadline: February 29, 2024.\nReviews Completion: April 8, 2024.\nProgram Announcement: May 20, 2024."
+    "text": "The goal of this conference is to foster and enhance collaboration among privacy experts, researchers, data stewards, data practitioners, and public policymakers. This event serves as a crucial platform to bridge communication gaps across these diverse groups and collectively explore technical and policy solutions for addressing challenges related to data privacy and public policy."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Co-Chairs",
+    "title": "Co-Chairs and Volunteers",
     "section": "",
-    "text": "Quentin Brummet\n\n\n\nQuentin Brummet (he/him) is a senior research methodologist in the Methodology & Quantitative Social Sciences department at NORC at the University of Chicago. In this role, he leads research on education and labor force policies and techniques for data privacy, causal inference and survey methodology. He is particularly interested in research related to the applicability of formal privacy methods to sample surveys.\n\n\nAnthony Caruso\n\n\n\nAnthony Caruso is Chief of the Confidentiality Research Staff in the Economic Statistical Methods Division at the U.S. Census Bureau.  His work focuses on the development and implementation of differentially private methods for economic statistics.  He is also interested in improving public understanding about differential privacy and other statistical disclosure control methods.\n\n\nJingchen (Monika) Hu\n\n\n\nJingchen (Monika) Hu (she/her) is an Associate Professor at Vassar College. She works on advancing Bayesian methods for statistical data privacy challenges, including synthetic data and differential privacy methods. Monika is a co-author of the undergraduate-level Bayesian textbook Probability and Bayesian Modeling."
+    "text": "If you are interested in volunteering, please reach out to Jingchen (Monika) Hu at jihu at vassar dot edu."
   },
   {
     "objectID": "about.html#planning-committee-co-chairs",
     "href": "about.html#planning-committee-co-chairs",
-    "title": "Co-Chairs",
-    "section": "",
-    "text": "Quentin Brummet\n\n\n\nQuentin Brummet (he/him) is a senior research methodologist in the Methodology & Quantitative Social Sciences department at NORC at the University of Chicago. In this role, he leads research on education and labor force policies and techniques for data privacy, causal inference and survey methodology. He is particularly interested in research related to the applicability of formal privacy methods to sample surveys.\n\n\nAnthony Caruso\n\n\n\nAnthony Caruso is Chief of the Confidentiality Research Staff in the Economic Statistical Methods Division at the U.S. Census Bureau.  His work focuses on the development and implementation of differentially private methods for economic statistics.  He is also interested in improving public understanding about differential privacy and other statistical disclosure control methods.\n\n\nJingchen (Monika) Hu\n\n\n\nJingchen (Monika) Hu (she/her) is an Associate Professor at Vassar College. She works on advancing Bayesian methods for statistical data privacy challenges, including synthetic data and differential privacy methods. Monika is a co-author of the undergraduate-level Bayesian textbook Probability and Bayesian Modeling."
+    "title": "Co-Chairs and Volunteers",
+    "section": "Planning Committee Co-Chairs",
+    "text": "Planning Committee Co-Chairs\nQuentin Brummet\n\n\n\nQuentin Brummet (he/him) is a senior research methodologist in the Methodology & Quantitative Social Sciences department at NORC at the University of Chicago. In this role, he leads research on education and labor force policies and techniques for data privacy, causal inference and survey methodology. He is particularly interested in research related to the applicability of formal privacy methods to sample surveys.\n\n\nAnthony Caruso\n\n\n\nAnthony Caruso is Chief of the Confidentiality Research Staff in the Economic Statistical Methods Division at the U.S. Census Bureau.  His work focuses on the development and implementation of differentially private methods for economic statistics.  He is also interested in improving public understanding about differential privacy and other statistical disclosure control methods.\n\n\nJingchen (Monika) Hu\n\n\n\nJingchen (Monika) Hu (she/her) is an Associate Professor at Vassar College. She works on advancing Bayesian methods for statistical data privacy challenges, including synthetic data and differential privacy methods. Monika is a co-author of the undergraduate-level Bayesian textbook Probability and Bayesian Modeling."
   },
   {
     "objectID": "about.html#program-committee-co-chairs",
     "href": "about.html#program-committee-co-chairs",
-    "title": "Co-Chairs",
+    "title": "Co-Chairs and Volunteers",
     "section": "Program Committee Co-Chairs",
     "text": "Program Committee Co-Chairs\nValbona Bejleri\nClaire Bowen\n\n\n\nClaire McKay Bowen (she/her) is a principal research associate and leads the Statistical Methods Group at the Urban Institute. Her research primarily focuses on developing technical and policy solutions to safely expand access to confidential data that advances evidence-based policymaking. She also has interest in improving science communication and integrating data equity into the data privacy process.\n\n\nV. Joseph Hotz\n\n\n\nV. Joseph Hotz is the Arts and Sciences Distinguished Professor of Economics and Public Policy at Duke University. His research areas include the economics of the family, economic demography, labor economics, population health, and applied econometrics."
+  },
+  {
+    "objectID": "index.html#privacy-and-public-policy-conference",
+    "href": "index.html#privacy-and-public-policy-conference",
+    "title": "Privacy and Public Policy Conference",
+    "section": "",
+    "text": "The goal of this conference is to foster and enhance collaboration among privacy experts, researchers, data stewards, data practitioners, and public policymakers. This event serves as a crucial platform to bridge communication gaps across these diverse groups and collectively explore technical and policy solutions for addressing challenges related to data privacy and public policy."
+  },
+  {
+    "objectID": "index.html#tentative-program-structure",
+    "href": "index.html#tentative-program-structure",
+    "title": "Privacy and Public Policy Conference",
+    "section": "Tentative Program Structure",
+    "text": "Tentative Program Structure\nThe Conference Committee is currently in the process of planning a two-day conference with a single-track format. The event will commence with an invited panel of speakers who will discuss the practical implementation of various data privacy laws before a series of speakers present based on submitted abstracts. In the evening, we are excited to host a poster session, complete with prizes for the best poster presentations. On the second day, following additional presentations, we will wrap up the event with engaging roundtable discussions."
+  },
+  {
+    "objectID": "index.html#call-for-participation",
+    "href": "index.html#call-for-participation",
+    "title": "Privacy and Public Policy Conference",
+    "section": "Call for Participation",
+    "text": "Call for Participation\nIf you would like to present either an oral or poster presentation, please click here to sign up! This conference requires an extended abstract, where we have links to abstract templates are below.\nIf you have issues accessing them, please reach out to Claire Bowen at cbowen at urban dot org.\n\nLaTeX - via Overleaf Project\nGoogleDoc/Word - via Google Docs"
+  },
+  {
+    "objectID": "index.html#tentative-program-timeline",
+    "href": "index.html#tentative-program-timeline",
+    "title": "Privacy and Public Policy Conference",
+    "section": "Tentative Program Timeline",
+    "text": "Tentative Program Timeline\n\nAnnouncement for Participation and Conference: November 2023.\nAbstract Submission Deadline: February 29, 2024.\nReviews Completion: April 8, 2024.\nProgram Announcement: May 20, 2024."
+  },
+  {
+    "objectID": "about.html#reviewers",
+    "href": "about.html#reviewers",
+    "title": "Co-Chairs and Volunteers",
+    "section": "Reviewers",
+    "text": "Reviewers\nAlyssa Columbus, Johns Hopkins University\nMinsun Riddles, Westat\nJustin Doty, United States Census Bureau\nHang Kim, University of Cincinnati\nZach Terner, The MITRE Corporation\nJames Bailie, Statistics Department, Harvard University\nZixin Nie, RTI International\nDon Jang, NORC\nScott Holan, University of Missouri/United States Census Bureau\nChristine Task, Knexus Research Corporation\nMichael Jacobson, NASS\nJae June Lee, Georgetown Center on Poverty & Inequality\nRob Chew, RTI International\nMichael Jacobsen, USDA-NASS\nNorm Matloff, University of California, Davis"
+  },
+  {
+    "objectID": "about.html#program-committee-members",
+    "href": "about.html#program-committee-members",
+    "title": "Co-Chairs and Volunteers",
+    "section": "Program Committee Members",
+    "text": "Program Committee Members\nLu Chen, National Institute of Statistical Sciences/USDA, NASS\nMichael Hawes, United States Census Bureau\nJoshua Snoke, RAND Corp."
   }
 ]

@@ -1,21 +1,29 @@
 ---
 title: "Privacy and Public Policy Conference"
-subtitle: "Georgetown Massive Data Insitute, September 13-14, 2024"
+subtitle: "Georgetown Massive Data Institute (DC location), September 13-14, 2024"
 ---
 
-Click [here](https://docs.google.com/forms/d/e/1FAIpQLSe3JWSrB8U0adk_INZ5eQaMaeGV7-P5muDX_LUXKoRp72x89w/viewform) to sign up!
+## Privacy and Public Policy Conference
 
-Links to abstract templates:
+The goal of this conference is to foster and enhance collaboration among privacy experts, researchers, data stewards, data practitioners, and public policymakers. This event serves as a crucial platform to bridge communication gaps across these diverse groups and collectively explore technical and policy solutions for addressing challenges related to data privacy and public policy.
 
--   [LaTeX](https://www.overleaf.com/read/kvwpjnsqyybh#a2f234)
+## **Tentative Program Structure**
 
--   [GoogleDoc/Word](https://docs.google.com/document/d/1H6g1bBp7C6wcpzU31DsyWPaiTiMM1gNI/edit)
+The Conference Committee is currently in the process of planning a two-day conference with a single-track format. The event will commence with an invited panel of speakers who will discuss the practical implementation of various data privacy laws before a series of speakers present based on submitted abstracts. In the evening, we are excited to host a poster session, complete with prizes for the best poster presentations. On the second day, following additional presentations, we will wrap up the event with engaging roundtable discussions.
 
-Program timeline:
+## **Call for Participation** 
 
--   **Calls for Participation:** November 1, 2023.
+If you would like to present either an oral or poster presentation, please click [here](https://docs.google.com/forms/d/e/1FAIpQLSe3JWSrB8U0adk_INZ5eQaMaeGV7-P5muDX_LUXKoRp72x89w/viewform) to sign up! This conference requires an extended abstract, where we have links to abstract templates are below.
 
--   **Reminder Calls:** December 2023, January 2024, and February 2024.
+If you have issues accessing them, please reach out to Claire Bowen at cbowen at urban dot org.
+
+-   [LaTeX](https://www.overleaf.com/read/kvwpjnsqyybh#a2f234) - via Overleaf Project
+
+-   [GoogleDoc/Word](https://docs.google.com/document/d/1H6g1bBp7C6wcpzU31DsyWPaiTiMM1gNI/edit) - via Google Docs
+
+## **Tentative Program Timeline**
+
+-   **Announcement for Participation and Conference:** November 2023.
 
 -   **Abstract Submission Deadline:** February 29, 2024.
 
