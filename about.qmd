@@ -22,6 +22,8 @@ If you are interested in volunteering, please reach out to Jingchen (Monika) Hu 
 
 ***Valbona Bejleri***
 
+![Valbona Bejleri (she/her) is a supervisory mathematical statistician with National Agricultural Statistics Service (NASS) at the Department of Agriculture (USDA). She is also a co-leader of the Statistical Disclosure Limitation Research Team at NASS. Her research interests include methods for predictive inference, uncertainty assessment, and statistical disclosure methods with application to agricultural data.](figs/valbona_profile.jpg){fig-align="left" width="150"}
+
 ***Claire Bowen***
 
 ![Claire McKay Bowen (she/her) is a principal research associate and leads the Statistical Methods Group at the Urban Institute. Her research primarily focuses on developing technical and policy solutions to safely expand access to confidential data that advances evidence-based policymaking. She also has interest in improving science communication and integrating data equity into the data privacy process.](figs/claire_profile.jpg){fig-align="left" width="200"}
