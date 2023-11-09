@@ -25,7 +25,7 @@
     "href": "index.html#call-for-participation",
     "title": "Privacy and Public Policy Conference",
     "section": "Call for Participation",
-    "text": "Call for Participation\nIf you would like to present either an oral or poster presentation, please click here to sign up! This conference requires an extended abstract, where we have links to abstract templates are below.\nIf you have issues accessing them, please reach out to Claire Bowen at cbowen at urban dot org.\n\nLaTeX - via Overleaf Project\nGoogleDoc/Word - via Google Docs"
+    "text": "Call for Participation\nIf you would like to present either an oral or poster presentation, please click here to sign up! This conference requires an extended abstract, where we have links to abstract templates are below. Abstracts based on papers that are already published are welcomed, but must be published recently (since 2021). If your abstract is accepted, you consent to having your abstract publicly available on the conference website.\nIf you have issues accessing the abstract templates, please reach out to Claire Bowen at cbowen at urban dot org.\n\nLaTeX - via Overleaf Project\nGoogleDoc/Word - via Google Docs"
   },
   {
     "objectID": "index.html#tentative-program-timeline",
@@ -37,43 +37,43 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Co-Chairs and Volunteers",
+    "title": "Conference Committees",
     "section": "",
     "text": "If you are interested in volunteering, please reach out to Jingchen (Monika) Hu at jihu at vassar dot edu."
   },
   {
     "objectID": "about.html#planning-committee-co-chairs",
     "href": "about.html#planning-committee-co-chairs",
-    "title": "Co-Chairs and Volunteers",
+    "title": "Conference Committees",
     "section": "Planning Committee Co-Chairs",
     "text": "Planning Committee Co-Chairs\nQuentin Brummet\n\n\n\nQuentin Brummet (he/him) is a senior research methodologist in the Methodology & Quantitative Social Sciences department at NORC at the University of Chicago. In this role, he leads research on education and labor force policies and techniques for data privacy, causal inference and survey methodology. He is particularly interested in research related to the applicability of formal privacy methods to sample surveys.\n\n\nAnthony Caruso\n\n\n\nAnthony Caruso is Chief of the Confidentiality Research Staff in the Economic Statistical Methods Division at the U.S. Census Bureau.  His work focuses on the development and implementation of differentially private methods for economic statistics.  He is also interested in improving public understanding about differential privacy and other statistical disclosure control methods.\n\n\nJingchen (Monika) Hu\n\n\n\nJingchen (Monika) Hu (she/her) is an Associate Professor at Vassar College. She works on advancing Bayesian methods for statistical data privacy challenges, including synthetic data and differential privacy methods. Monika is a co-author of the undergraduate-level Bayesian textbook Probability and Bayesian Modeling."
   },
   {
     "objectID": "about.html#program-committee-co-chairs",
     "href": "about.html#program-committee-co-chairs",
-    "title": "Co-Chairs and Volunteers",
+    "title": "Conference Committees",
     "section": "Program Committee Co-Chairs",
     "text": "Program Committee Co-Chairs\nValbona Bejleri\n\n\n\nValbona Bejleri (she/her) is a supervisory mathematical statistician with National Agricultural Statistics Service (NASS) at the Department of Agriculture (USDA). She is also a co-leader of the Statistical Disclosure Limitation Research Team at NASS. Her research interests include methods for predictive inference, uncertainty assessment, and statistical disclosure methods with application to agricultural data.\n\n\nClaire Bowen\n\n\n\nClaire McKay Bowen (she/her) is a principal research associate and leads the Statistical Methods Group at the Urban Institute. Her research primarily focuses on developing technical and policy solutions to safely expand access to confidential data that advances evidence-based policymaking. She also has interest in improving science communication and integrating data equity into the data privacy process.\n\n\nV. Joseph Hotz\n\n\n\nV. Joseph Hotz is the Arts and Sciences Distinguished Professor of Economics and Public Policy at Duke University. His research areas include the economics of the family, economic demography, labor economics, population health, and applied econometrics."
   },
   {
     "objectID": "about.html#planning-committee-members",
     "href": "about.html#planning-committee-members",
-    "title": "Co-Chairs and Volunteers",
+    "title": "Conference Committees",
     "section": "Planning Committee Members",
-    "text": "Planning Committee Members\nBrenda Betancourt, NORC\nStephanie Straus, Georgetown University"
+    "text": "Planning Committee Members\nBrenda Betancourt, NORC at the University of Chicago\nStephanie Straus, Georgetown University"
   },
   {
     "objectID": "about.html#program-committee-members",
     "href": "about.html#program-committee-members",
-    "title": "Co-Chairs and Volunteers",
+    "title": "Conference Committees",
     "section": "Program Committee Members",
     "text": "Program Committee Members\nLu Chen, National Institute of Statistical Sciences/USDA, NASS\nMichael Hawes, United States Census Bureau\nJoshua Snoke, RAND Corp."
   },
   {
     "objectID": "about.html#reviewers",
     "href": "about.html#reviewers",
-    "title": "Co-Chairs and Volunteers",
+    "title": "Conference Committees",
     "section": "Reviewers",
-    "text": "Reviewers\nAlyssa Columbus, Johns Hopkins University\nMinsun Riddles, Westat\nJustin Doty, United States Census Bureau\nHang Kim, University of Cincinnati\nZach Terner, The MITRE Corporation\nJames Bailie, Statistics Department, Harvard University\nZixin Nie, RTI International\nDon Jang, NORC\nScott Holan, University of Missouri/United States Census Bureau\nChristine Task, Knexus Research Corporation\nMichael Jacobson, NASS\nJae June Lee, Georgetown Center on Poverty & Inequality\nRob Chew, RTI International\nMichael Jacobsen, USDA-NASS\nNorm Matloff, University of California, Davis"
+    "text": "Reviewers\nJames Bailie, Statistics Department, Harvard University\nRob Chew, RTI International\nAlyssa Columbus, Johns Hopkins University\nJustin Doty, United States Census Bureau\nCaleb Floyd, United States Census Bureau\nMichael Freiman, United States Census Bureau\nScott Holan, University of Missouri/United States Census Bureau\nMichael Jacobson, USDA - National Agricultural Statistics Service\nDon Jang, NORC at the University of Chicago\nHang Kim, University of Cincinnati\nJae June Lee, Georgetown Center on Poverty & Inequality\nNorm Matloff, University of California, Davis\nZixin Nie, RTI International\nMinsun Riddles, Westat\nChristine Task, Knexus Research Corporation\nZach Terner, The MITRE Corporation"
   }
 ]

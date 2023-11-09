@@ -11,11 +11,11 @@ The goal of this conference is to foster and enhance collaboration among privacy
 
 The Conference Committee is currently in the process of planning a two-day conference with a single-track format. The event will commence with an invited panel of speakers who will discuss the practical implementation of various data privacy laws before a series of speakers present based on submitted abstracts. In the evening, we are excited to host a poster session, complete with prizes for the best poster presentations. On the second day, following additional presentations, we will wrap up the event with engaging roundtable discussions.
 
-## **Call for Participation** 
+## **Call for Participation**
 
-If you would like to present either an oral or poster presentation, please click [here](https://docs.google.com/forms/d/e/1FAIpQLSe3JWSrB8U0adk_INZ5eQaMaeGV7-P5muDX_LUXKoRp72x89w/viewform) to sign up! This conference requires an extended abstract, where we have links to abstract templates are below.
+If you would like to present either an oral or poster presentation, please click [here](https://docs.google.com/forms/d/e/1FAIpQLSe3JWSrB8U0adk_INZ5eQaMaeGV7-P5muDX_LUXKoRp72x89w/viewform) to sign up! This conference requires an extended abstract, where we have links to abstract templates are below. Abstracts based on papers that are already published are welcomed, but must be published recently (since 2021). If your abstract is accepted, you consent to having your abstract publicly available on the conference website.
 
-If you have issues accessing them, please reach out to Claire Bowen at cbowen at urban dot org.
+If you have issues accessing the abstract templates, please reach out to Claire Bowen at cbowen at urban dot org.
 
 -   [LaTeX](https://www.overleaf.com/read/kvwpjnsqyybh#a2f234) - via Overleaf Project
 

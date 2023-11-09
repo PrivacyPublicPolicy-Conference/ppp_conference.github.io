@@ -1,5 +1,5 @@
 ---
-title: "Co-Chairs and Volunteers"
+title: "Conference Committees"
 ---
 
 If you are interested in volunteering, please reach out to Jingchen (Monika) Hu at jihu at vassar dot edu.
@@ -34,7 +34,7 @@ If you are interested in volunteering, please reach out to Jingchen (Monika) Hu 
 
 ## **Planning Committee Members**
 
-Brenda Betancourt, NORC
+Brenda Betancourt, NORC at the University of Chicago
 
 Stephanie Straus, Georgetown University
 
@@ -48,32 +48,34 @@ Joshua Snoke, RAND Corp.
 
 ## **Reviewers**
 
-Alyssa Columbus, Johns Hopkins University
-
-Minsun Riddles, Westat
-
-Justin Doty, United States Census Bureau
-
-Hang Kim, University of Cincinnati
-
-Zach Terner, The MITRE Corporation
-
 James Bailie, Statistics Department, Harvard University
-
-Zixin Nie, RTI International
-
-Don Jang, NORC
-
-Scott Holan, University of Missouri/United States Census Bureau
-
-Christine Task, Knexus Research Corporation
-
-Michael Jacobson, NASS
-
-Jae June Lee, Georgetown Center on Poverty & Inequality
 
 Rob Chew, RTI International
 
-Michael Jacobsen, USDA-NASS
+Alyssa Columbus, Johns Hopkins University
+
+Justin Doty, United States Census Bureau
+
+Caleb Floyd, United States Census Bureau
+
+Michael Freiman, United States Census Bureau
+
+Scott Holan, University of Missouri/United States Census Bureau
+
+Michael Jacobson, USDA - National Agricultural Statistics Service
+
+Don Jang, NORC at the University of Chicago
+
+Hang Kim, University of Cincinnati
+
+Jae June Lee, Georgetown Center on Poverty & Inequality
 
 Norm Matloff, University of California, Davis
+
+Zixin Nie, RTI International
+
+Minsun Riddles, Westat
+
+Christine Task, Knexus Research Corporation
+
+Zach Terner, The MITRE Corporation
