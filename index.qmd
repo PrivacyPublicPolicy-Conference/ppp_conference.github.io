@@ -21,6 +21,15 @@ If you have issues accessing the abstract templates, please reach out to Claire 
 
 -   [GoogleDoc/Word](https://docs.google.com/document/d/1H6g1bBp7C6wcpzU31DsyWPaiTiMM1gNI/edit) - via Google Docs
 
+If you have issues with using the Google Form submission, please email your abstract along with the following information to the conference email address at privacy dot and dot public dot policy dot conference at proton dot me (privacy.and.public.policy.conference@proton.me).
+
+- Corresponding Author's First and Last Name
+- Corresponding Author's Preferred Email Address
+- Corresponding Author's Affiliation
+- Do you prefer poster or oral presentation (Poster, Oral, Either)
+- Title of Submission
+- Upload the Abstract (Word Doc or PDF)
+
 ## **Tentative Program Timeline**
 
 -   **Announcement for Participation and Conference:** November 2023.
