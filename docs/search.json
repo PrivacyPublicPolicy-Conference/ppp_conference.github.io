@@ -32,7 +32,7 @@
     "href": "index.html#tentative-program-timeline",
     "title": "Privacy and Public Policy Conference",
     "section": "Tentative Program Timeline",
-    "text": "Tentative Program Timeline\n\nAnnouncement for Participation and Conference: November 2023.\nAbstract Submission Deadline: February 29, 2024.\nReviews Completion: April 8, 2024.\nAbstract Notification: April 15, 2024.\nProgram Announcement: May 20, 2024.\nGeneral Registration Opens: May 20, 2024.\nSpeaker Registration Deadline: May 31, 2024.\nGeneral Registration Deadline: August 2, 2024."
+    "text": "Tentative Program Timeline\n\nAnnouncement for Participation and Conference: November 2023.\nAbstract Submission Deadline: February 29, 2024.\nReviews Completion: April 8, 2024.\nAbstract Notification: April 15, 2024.\nProgram Announcement: May 10, 2024.\nGeneral Registration Opens: May 20, 2024.\nSpeaker Registration Deadline: May 31, 2024.\nGeneral Registration Deadline: August 2, 2024."
   },
   {
     "objectID": "about.html",
@@ -102,6 +102,90 @@
     "href": "schedule.html",
     "title": "Conference Schedule",
     "section": "",
-    "text": "Tentative schedule, subject to change.\n\n\n\n\n\n\n\nDay 1\nFriday September 13, 2024\n\n\n\n\n8:45am - 9:00am\nIntroduction\n\n\n9:00am - 10:00am\nInvited panel\n\n\n10:00am - 10:15am\nCoffee and tea break\n\n\n10:15am - 12:00pm\nSession 1: DP Methods and Applications\n\n\n\nRob Chew - Privacy Preserving Autocoders\n\n\n\nOgonnaya Romanus - Simulation-Based Differentially Private Inference for Proportions\n\n\n\nLiudas Panavas - A Visualization Tool To Help Technical Practitioners of Differential Privacy\n\n\n\nPriyanka Nanayakkara - Eliciting End Users’ Privacy-Accuracy Preferences for Differentially Private Deployments\n\n\n12:00pm - 1:30pm\nLunch\n\n\n1:30pm - 3:15pm\nSession 2: Government PETs Applications\n\n\n\nLisa B. Mirel - Linking Data in a Shared Service Environment\n\n\n\nGraham MacDonald - Building an Automated Validation Server Prototype\n\n\n\nCordell Golden - National Center for Health Statistics Data Linkage Program: Generating Synthetic Data to Support Tiered Access\n\n\n\nShlomi Hod - Designing the Pilot Release of Israel’s National Registry of Live Births: Reconciling Privacy with Accuracy and Usability\n\n\n3:15pm - 3:30pm\nCoffee and tea break\n\n\n3:30pm - 5:00pm\nWorking roundtables\n\n\n5:00pm - 7:00pm\nPoster\n\n\n\n\n\n\n\n\n\n\nDay 2\nSaturday September 14, 2024\n\n\n\n\n9:00am - 10:45am\nSession 3: Synthetic Data Methods and Applications\n\n\n\nLuca Sartore - High-Dimensional Synthetic Data Via Nearest Neighbors\n\n\n\nMedha Uppala - Research and Applications of Select Synthetic Data Approaches at Westat\n\n\n\nHang Kim - Automatic Variance Adjusted Bayesian Inference with Pseudo Likelihood under Unequal Probability Sampling: Imputation and Data Synthesis\n\n\n\nCameron Bale - Optimized Sequential Synthesis with an Application to Legal Anonymization\n\n\n10:45am - 11:00am\nCoffee and tea break\n\n\n11:00am - 12:45pm\nSession 4: Privacy Perspectives\n\n\n\nElan Segarra - Estimating Preferences Over Data to Inform Statistical Disclosure Methods\n\n\n\nSeverin Engelmann - Countering Privacy Nihilism\n\n\n\nJames Bailie - Can Swapping be Differentially Private? A Refreshment Stirred, not Shaken\n\n\n\nTamalika Mukherjee - The Hidden Costs of Privacy Choice for Marginalized Groups\n\n\n12:45pm - 2:30pm\nLunch and working roundtables\n\n\n2:30pm - 3:00pm\nWrap-up"
+    "text": "Tentative schedule, subject to change.\n\n\n\n\n\n\n\nDay 1\nFriday September 13, 2024\n\n\n\n\n8:45am - 9:00am\nIntroduction\n\n\n9:00am - 10:00am\nInvited panel\n\n\n10:00am - 10:15am\nCoffee and tea break\n\n\n10:15am - 12:00pm\nSession 1: DP Methods and Applications\n\n\n\nRob Chew - Privacy Preserving Autocoders\n\n\n\nOgonnaya Romanus - Simulation-Based Differentially Private Inference for Proportions\n\n\n\nLiudas Panavas - A Visualization Tool To Help Technical Practitioners of Differential Privacy\n\n\n\nPriyanka Nanayakkara - Eliciting End Users’ Privacy-Accuracy Preferences for Differentially Private Deployments\n\n\n12:00pm - 1:30pm\nLunch\n\n\n1:30pm - 3:15pm\nSession 2: Government PETs Applications\n\n\n\nLisa B. Mirel - Linking Data in a Shared Service Environment\n\n\n\nGraham MacDonald - Building an Automated Validation Server Prototype\n\n\n\nCordell Golden - National Center for Health Statistics Data Linkage Program: Generating Synthetic Data to Support Tiered Access\n\n\n\nShlomi Hod - Designing the Pilot Release of Israel’s National Registry of Live Births: Reconciling Privacy with Accuracy and Usability\n\n\n3:15pm - 3:30pm\nCoffee and tea break\n\n\n3:30pm - 5:00pm\nWorking roundtables\n\n\n5:00pm - 7:00pm\nPoster session\n\n\n\n\n\n\n\n\n\n\nDay 2\nSaturday September 14, 2024\n\n\n\n\n9:00am - 10:45am\nSession 3: Synthetic Data Methods and Applications\n\n\n\nLuca Sartore - High-Dimensional Synthetic Data Via Nearest Neighbors\n\n\n\nMedha Uppala - Research and Applications of Select Synthetic Data Approaches at Westat\n\n\n\nHang Kim - Automatic Variance Adjusted Bayesian Inference with Pseudo Likelihood under Unequal Probability Sampling: Imputation and Data Synthesis\n\n\n\nCameron Bale - Optimized Sequential Synthesis with an Application to Legal Anonymization\n\n\n10:45am - 11:00am\nCoffee and tea break\n\n\n11:00am - 12:45pm\nSession 4: Privacy Perspectives\n\n\n\nElan Segarra - Estimating Preferences Over Data to Inform Statistical Disclosure Methods\n\n\n\nSeverin Engelmann - Countering Privacy Nihilism\n\n\n\nJames Bailie - Can Swapping be Differentially Private? A Refreshment Stirred, not Shaken\n\n\n\nTamalika Mukherjee - The Hidden Costs of Privacy Choice for Marginalized Groups\n\n\n12:45pm - 2:30pm\nLunch and working roundtables\n\n\n2:30pm - 3:00pm\nWrap-up"
+  },
+  {
+    "objectID": "committee.html",
+    "href": "committee.html",
+    "title": "Conference Committees",
+    "section": "",
+    "text": "If you are interested in volunteering, please reach out to Jingchen (Monika) Hu at jihu at vassar dot edu."
+  },
+  {
+    "objectID": "committee.html#planning-committee-co-chairs",
+    "href": "committee.html#planning-committee-co-chairs",
+    "title": "Conference Committees",
+    "section": "Planning Committee Co-Chairs",
+    "text": "Planning Committee Co-Chairs\nQuentin Brummet\n\n\n\nQuentin Brummet (he/him) is a senior research methodologist in the Methodology & Quantitative Social Sciences department at NORC at the University of Chicago. In this role, he leads research on education and labor force policies and techniques for data privacy, causal inference and survey methodology. He is particularly interested in research related to the applicability of formal privacy methods to sample surveys.\n\n\nAnthony Caruso\n\n\n\nAnthony Caruso is Chief of the Confidentiality Research Staff in the Economic Statistical Methods Division at the U.S. Census Bureau.  His work focuses on the development and implementation of differentially private methods for economic statistics.  He is also interested in improving public understanding about differential privacy and other statistical disclosure control methods.\n\n\nJingchen (Monika) Hu\n\n\n\nJingchen (Monika) Hu (she/her) is an Associate Professor at Vassar College. She works on advancing Bayesian methods for statistical data privacy challenges, including synthetic data and differential privacy methods. Monika is a co-author of the undergraduate-level Bayesian textbook Probability and Bayesian Modeling."
+  },
+  {
+    "objectID": "committee.html#program-committee-co-chairs",
+    "href": "committee.html#program-committee-co-chairs",
+    "title": "Conference Committees",
+    "section": "Program Committee Co-Chairs",
+    "text": "Program Committee Co-Chairs\nValbona Bejleri\n\n\n\nValbona Bejleri (she/her) is a supervisory mathematical statistician with National Agricultural Statistics Service (NASS) at the Department of Agriculture (USDA). She is also a co-leader of the Statistical Disclosure Limitation Research Team at NASS. Her research interests include methods for predictive inference, uncertainty assessment, and statistical disclosure methods with application to agricultural data.\n\n\nClaire Bowen\n\n\n\nClaire McKay Bowen (she/her) is a principal research associate and leads the Statistical Methods Group at the Urban Institute. Her research primarily focuses on developing technical and policy solutions to safely expand access to confidential data that advances evidence-based policymaking. She also has interest in improving science communication and integrating data equity into the data privacy process.\n\n\nV. Joseph Hotz\n\n\n\nV. Joseph Hotz is the Arts and Sciences Distinguished Professor of Economics and Public Policy at Duke University. His research areas include the economics of the family, economic demography, labor economics, population health, and applied econometrics."
+  },
+  {
+    "objectID": "committee.html#planning-committee-members",
+    "href": "committee.html#planning-committee-members",
+    "title": "Conference Committees",
+    "section": "Planning Committee Members",
+    "text": "Planning Committee Members\nBrenda Betancourt, NORC at the University of Chicago\nStephanie Straus, Georgetown University"
+  },
+  {
+    "objectID": "committee.html#program-committee-members",
+    "href": "committee.html#program-committee-members",
+    "title": "Conference Committees",
+    "section": "Program Committee Members",
+    "text": "Program Committee Members\nLu Chen, National Institute of Statistical Sciences/USDA, NASS\nMichael Hawes, United States Census Bureau\nJoshua Snoke, RAND Corp."
+  },
+  {
+    "objectID": "committee.html#reviewers",
+    "href": "committee.html#reviewers",
+    "title": "Conference Committees",
+    "section": "Reviewers",
+    "text": "Reviewers\nJames Bailie, Statistics Department, Harvard University\nRob Chew, RTI International\nAlyssa Columbus, Johns Hopkins University\nJustin Doty, United States Census Bureau\nCaleb Floyd, United States Census Bureau\nMichael Freiman, United States Census Bureau\nScott Holan, University of Missouri/United States Census Bureau\nMichael Jacobson, USDA - National Agricultural Statistics Service\nDon Jang, NORC at the University of Chicago\nHang Kim, University of Cincinnati\nJae June Lee, Georgetown Center on Poverty & Inequality\nNorm Matloff, University of California, Davis\nCasey Meehan, Tumult Labs\nZixin Nie, RTI International\nDavid Pujol, Tumult Labs\nMinsun Riddles, Westat\nChristine Task, Knexus Research Corporation\nZach Terner, The MITRE Corporation"
+  },
+  {
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration",
+    "section": "",
+    "text": "Registration is free thanks to the generous support from the Alfred P. Sloan Foundation (G-2022-19513). If you would like to attend this conference, please click here to register!\nGeneral registration opens on May 20, 2024 and closes on August 2, 2024.\nOral and poster presenters, please register by May 31, 2024.\nIf you have issues with using the Google Form registration, please email your registration to the conference email address at privacy dot and dot public dot policy dot conference at proton dot me (privacy.and.public.policy.conference@proton.me) with the following information.\n\nName\nEmail\nAffiliation\nJob title\nAre you interested in being a session chair?\n\nYes\nNo\nMaybe\n\nAre you interested in being a poster session judge?\n\nYes\nNo\nMaybe\n\nWhich days are you planning to attend?\n\nDay 1 only\nDay 2 only\nBoth days\n\nWhat is your role in this conference? Check all that apply.\n\nAttendee\nCo-author of a oral presentation and/or a poster\nOral presenter\nOrganizer\nPanelist\nPoster presenter\nVolunteer\n\nDo you have any dietary preferences? e.g., vegan."
+  },
+  {
+    "objectID": "support.html",
+    "href": "support.html",
+    "title": "Travel Support and Poster Awards",
+    "section": "",
+    "text": "Thanks to the generous support from the Alfred P. Sloan Foundation (G-2022-19513), we are happy to support up to three student travel awards. Below you will find detailed information.\n\n\nThe Privacy and Public Policy Conference will award up to three travel awards of $1500 to students in order to cover the costs of attending the conference. Prioritization will be given to students presenting a paper or poster.\nPriority is also given to students who have no other source of funds to finance travel to the conference. The application requires a short note from the student’s main faculty advisor substantiating that the student does not have access to other funds to support conference engagement. Applications will be evaluated based on the student’s Personal Statement, which must include the applicant’s current research interest(s) and professional development goals, as well as how the conference would help the student achieve those goals.\n\n\n\nAll applicants should submit their application materials to privacy dot and dot public dot policy dot conference at proton dot me (privacy.and.public.policy.conference@proton.me) by May 1, 2024 to receive full consideration. Each application should include the following:\n\nCV (including the applicant’s name, address, email, current institution, program of study, and number of years in the current program)\nA Personal Statement (maximum 1 page) that includes:\n\nThe applicants research interests\nProfessional development goals\nHow the conference will help the applicant with these research interests and goals\n\nA letter of support from a faculty advisor, which confirms that the applicant is a student in good standing in their program and explains that there is no other funding available to cover the expenses from attending the conference."
+  },
+  {
+    "objectID": "support.html#information",
+    "href": "support.html#information",
+    "title": "Travel Support and Poster Awards",
+    "section": "",
+    "text": "The Privacy and Public Policy Conference will award up to three travel awards of $1500 to students in order to cover the costs of attending the conference. Prioritization will be given to students presenting a paper or poster.\nPriority is also given to students who have no other source of funds to finance travel to the conference. The application requires a short note from the student’s main faculty advisor substantiating that the student does not have access to other funds to support conference engagement. Applications will be evaluated based on the student’s Personal Statement, which must include the applicant’s current research interest(s) and professional development goals, as well as how the conference would help the student achieve those goals."
+  },
+  {
+    "objectID": "support.html#application",
+    "href": "support.html#application",
+    "title": "Travel Support and Poster Awards",
+    "section": "",
+    "text": "All applicants should submit their application materials to privacy dot and dot public dot policy dot conference at proton dot me (privacy.and.public.policy.conference@proton.me) by May 1, 2024 to receive full consideration. Each application should include the following:\n\nCV (including the applicant’s name, address, email, current institution, program of study, and number of years in the current program)\nA Personal Statement (maximum 1 page) that includes:\n\nThe applicants research interests\nProfessional development goals\nHow the conference will help the applicant with these research interests and goals\n\nA letter of support from a faculty advisor, which confirms that the applicant is a student in good standing in their program and explains that there is no other funding available to cover the expenses from attending the conference."
+  },
+  {
+    "objectID": "support.html#travel-support",
+    "href": "support.html#travel-support",
+    "title": "Travel Support and Poster Awards",
+    "section": "",
+    "text": "Thanks to the generous support from the Alfred P. Sloan Foundation (G-2022-19513), we are happy to support up to three student travel awards. Below you will find detailed information.\n\n\nThe Privacy and Public Policy Conference will award up to three travel awards of $1500 to students in order to cover the costs of attending the conference. Prioritization will be given to students presenting a paper or poster.\nPriority is also given to students who have no other source of funds to finance travel to the conference. The application requires a short note from the student’s main faculty advisor substantiating that the student does not have access to other funds to support conference engagement. Applications will be evaluated based on the student’s Personal Statement, which must include the applicant’s current research interest(s) and professional development goals, as well as how the conference would help the student achieve those goals.\n\n\n\nAll applicants should submit their application materials to privacy dot and dot public dot policy dot conference at proton dot me (privacy.and.public.policy.conference@proton.me) by May 1, 2024 to receive full consideration. Each application should include the following:\n\nCV (including the applicant’s name, address, email, current institution, program of study, and number of years in the current program)\nA Personal Statement (maximum 1 page) that includes:\n\nThe applicants research interests\nProfessional development goals\nHow the conference will help the applicant with these research interests and goals\n\nA letter of support from a faculty advisor, which confirms that the applicant is a student in good standing in their program and explains that there is no other funding available to cover the expenses from attending the conference."
+  },
+  {
+    "objectID": "support.html#poster-awards",
+    "href": "support.html#poster-awards",
+    "title": "Travel Support and Poster Awards",
+    "section": "Poster Awards",
+    "text": "Poster Awards"
   }
 ]

@@ -1,6 +1,8 @@
 ---
-title: "Travel Support"
+title: "Travel Support and Poster Awards"
 ---
+
+# Travel Support
 
 Thanks to the generous support from the Alfred P. Sloan Foundation (G-2022-19513), we are happy to support up to **three** student travel awards. Below you will find detailed information.
 
@@ -23,3 +25,12 @@ All applicants should submit their application materials to privacy dot and dot 
     -   How the conference will help the applicant with these research interests and goals
 
 3.  **A letter of support from a faculty advisor**, which confirms that the applicant is a student in good standing in their program and explains that there is no other funding available to cover the expenses from attending the conference.
+
+
+# Poster Awards
+
+Thanks to the generous support from the Alfred P. Sloan Foundation (G-2022-19513), there will be **two** poster awards among posters presented during the poster session.  
+
+Check out the [schedule](schedule.qmd) for information about the poster session.
+
+Consider being a poster session judge when [register](registration.qmd) for the conference.

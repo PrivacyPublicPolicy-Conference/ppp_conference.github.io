@@ -1,6 +1,6 @@
 ---
 title: "Privacy and Public Policy Conference"
-subtitle: "Georgetown Massive Data Institute (DC location), September 13-14, 2024"
+subtitle: "Georgetown University, September 13-14, 2024"
 ---
 
 ## Privacy and Public Policy Conference
@@ -40,7 +40,7 @@ If you have issues with using the Google Form submission, please email your abst
 
 -   **Abstract Notification:** April 15, 2024.
 
--   **Program Announcement:** May 20, 2024.
+-   **Program Announcement:** May 10, 2024.
 
 -   **General Registration Opens:** May 20, 2024.
 

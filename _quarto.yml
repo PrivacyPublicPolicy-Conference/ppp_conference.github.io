@@ -9,8 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - schedule.qmd
-      - travel.qmd
-      - about.qmd
+      - registration.qmd
+      - support.qmd
+      - committee.qmd
       
 
 format:
