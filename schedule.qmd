@@ -67,7 +67,7 @@ Tentative schedule, subject to change.
 |                   |                                                                                                                                                                                       |
 |                   | -   **Matthew Williams** - Synthetic population generation for nested data using differentially private posteriors                                                                    |
 |                   |                                                                                                                                                                                       |
-|                   | -   Alexandra Wood - The Role of Synthetic Data in Privacy Governance                                                                                                                 |
+|                   | -   **Alexandra Wood** - The Role of Synthetic Data in Privacy Governance                                                                                                             |
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 +-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
