@@ -29,7 +29,7 @@ Tentative schedule, subject to change.
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |                   | **Lisa B. Mirel** - Linking Data in a Shared Service Environment                                                                                                                      |
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                   | **Graham MacDonald** - Building an Automated Validation Server Prototype                                                                                                              |
+|                   | **Graham MacDonald** **and Erika Tyagi** - Building an Automated Validation Server Prototype                                                                                          |
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |                   | **Cordell Golden** - National Center for Health Statistics Data Linkage Program: Generating Synthetic Data to Support Tiered Access                                                   |
 +-------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -43,11 +43,13 @@ Tentative schedule, subject to change.
 |                   |                                                                                                                                                                                       |
 |                   | -   **Lu Chen** - Bayesian data synthesis for data with weights                                                                                                                       |
 |                   |                                                                                                                                                                                       |
-|                   | -   **Aloni Cohen** - Whose 2010 Census responses can be reconstructed with certainty?                                                                                                |
+|                   | -   **Aloni Cohen and JN Matthews** - Differential Privacy Does Not Prevent Lawful Redistricting                                                                                      |
 |                   |                                                                                                                                                                                       |
 |                   | -   **Gary Howarth** - Benchmarking privacy-preserving synthetic data with the collaborative research cycle project                                                                   |
 |                   |                                                                                                                                                                                       |
 |                   | -   **Michael Jacobsen** - Synthetic Microdata Methods For Confidential Agricultural Data                                                                                             |
+|                   |                                                                                                                                                                                       |
+|                   | -   **JN Matthews** **and** **Aloni Cohen** - Whose 2010 Census responses can be reconstructed with certainty?                                                                        |
 |                   |                                                                                                                                                                                       |
 |                   | -   **Tamalika Mukherjee** - Equitable Differential Privacy                                                                                                                           |
 |                   |                                                                                                                                                                                       |
