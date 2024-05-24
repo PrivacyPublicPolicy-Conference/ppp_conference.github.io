@@ -43,7 +43,7 @@ Tentative schedule, subject to change.
 |                   |                                                                                                                                                                                       |
 |                   | -   **Lu Chen** - Bayesian data synthesis for data with weights                                                                                                                       |
 |                   |                                                                                                                                                                                       |
-|                   | -   **Aloni Cohen and JN Matthews** - Differential Privacy Does Not Prevent Lawful Redistricting                                                                                      |
+|                   | -   **Christian Cianfarani and Aloni Cohen** - Differential Privacy Does Not Prevent Lawful Redistricting                                                                             |
 |                   |                                                                                                                                                                                       |
 |                   | -   **Gary Howarth** - Benchmarking privacy-preserving synthetic data with the collaborative research cycle project                                                                   |
 |                   |                                                                                                                                                                                       |
@@ -99,4 +99,3 @@ Tentative schedule, subject to change.
 +-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
 | 12:45pm - 2:00pm  | Lunch and wrap-up                                                                                                                                      |
 +-------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------+
-
