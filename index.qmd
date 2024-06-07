@@ -3,6 +3,10 @@ title: "Privacy and Public Policy Conference"
 subtitle: "Georgetown University, September 13-14, 2024"
 ---
 
+McCourt School of Public Policy \
+125 E St NW \
+Washington, DC 20001
+
 ## Privacy and Public Policy Conference
 
 The goal of this conference is to foster and enhance collaboration among privacy experts, researchers, data stewards, data practitioners, and public policymakers. This event serves as a crucial platform to bridge communication gaps across these diverse groups and collectively explore technical and policy solutions for addressing challenges related to data privacy and public policy.
