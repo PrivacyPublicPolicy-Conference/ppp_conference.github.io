@@ -3,8 +3,8 @@ title: "Privacy and Public Policy Conference"
 subtitle: "Georgetown University, September 13-14, 2024"
 ---
 
-McCourt School of Public Policy \
-125 E St NW \
+McCourt School of Public Policy\
+125 E St NW\
 Washington, DC 20001
 
 ## Privacy and Public Policy Conference
@@ -25,14 +25,14 @@ If you have issues accessing the abstract templates, please reach out to Claire 
 
 -   [GoogleDoc/Word](https://docs.google.com/document/d/1H6g1bBp7C6wcpzU31DsyWPaiTiMM1gNI/edit) - via Google Docs
 
-If you have issues with using the Google Form submission, please email your abstract along with the following information to the conference email address at privacy dot and dot public dot policy dot conference at proton dot me (privacy.and.public.policy.conference@proton.me).
+If you have issues with using the Google Form submission, please email your abstract along with the following information to the conference email address at privacy dot and dot public dot policy dot conference at proton dot me (privacy.and.public.policy.conference\@proton.me).
 
-- Corresponding Author's First and Last Name
-- Corresponding Author's Preferred Email Address
-- Corresponding Author's Affiliation
-- Do you prefer poster or oral presentation (Poster, Oral, Either)
-- Title of Submission
-- Upload the Abstract (Word Doc or PDF)
+-   Corresponding Author's First and Last Name
+-   Corresponding Author's Preferred Email Address
+-   Corresponding Author's Affiliation
+-   Do you prefer poster or oral presentation (Poster, Oral, Either)
+-   Title of Submission
+-   Upload the Abstract (Word Doc or PDF)
 
 ## **Tentative Program Timeline**
 
@@ -51,3 +51,11 @@ If you have issues with using the Google Form submission, please email your abst
 -   **Presenter Registration Deadline:** May 31, 2024.
 
 -   **General Registration Deadline:** August 2, 2024.
+
+## **Thank you to our sponsors** 
+
+![](images/sloan-logo-01.png){fig-align="center"}
+
+![](images/Westat_Logo_high-res-01.jpg){fig-align="center" width="500"}
+
+![](images/NORC-Logo-Full-Color-01.jpg){fig-align="center" width="500"}
