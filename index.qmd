@@ -52,9 +52,11 @@ If you have issues with using the Google Form submission, please email your abst
 
 -   **General Registration Deadline:** August 2, 2024.
 
-## **Thank you to our sponsors** 
+## **Thank you to our sponsors**
 
 ![](images/sloan-logo-01.png){fig-align="center"}
+
+![](images/Vassar_College_Seal.svg-01.png){fig-align="center" width="300"}
 
 ![](images/Westat_Logo_high-res-01.jpg){fig-align="center" width="500"}
 
