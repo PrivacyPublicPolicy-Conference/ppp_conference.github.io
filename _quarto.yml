@@ -12,6 +12,7 @@ website:
       - registration.qmd
       - support.qmd
       - committee.qmd
+      - travel.qmd
       
 
 format:
