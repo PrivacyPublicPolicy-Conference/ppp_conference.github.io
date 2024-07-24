@@ -58,8 +58,10 @@ If you have issues with using the Google Form submission, please email your abst
 
 ![](images/Vassar_College_Seal.svg-01.png){fig-align="center" width="300"}
 
-![](images/McCourt_Secondary_CMYK_Formal_MDI (1)-01.jpg){fig-align="center" width="500"}
+![](images/McCourt_Secondary_CMYK_Formal_MDI%20(1)-01.jpg){fig-align="center" width="500"}
 
 ![](images/Westat_Logo_high-res-01.jpg){fig-align="center" width="500"}
 
 ![](images/NORC-Logo-Full-Color-01.jpg){fig-align="center" width="500"}
+
+![](images/ui-logo-rgb-01.png){fig-align="center" width="500"}
