@@ -130,11 +130,7 @@ Kelsey is an Adjunct Professor with the William & Mary School of Law and Senior 
 
 Previously, Kelsey was Senior Privacy Counsel at the Future of Privacy Forum where she led FPF’s work on privacy enhancing technologies and responsible data sharing, among other projects. Kelsey collaborated with senior privacy leaders in government, academia, industry, and civil society to build best practices, inform sound policymaking, and create educational materials to advance responsible data practices for emerging technologies.
 
-She is a graduate of Smith College and the Benjamin N. Cardozo School of Law, with a
-
-concentration in Intellectual Property and Information Law. She is a Certified Information
-
-Privacy Professional (CIPP/US) and a Certified Information Privacy Manager (CIPM).
+She is a graduate of Smith College and the Benjamin N. Cardozo School of Law, with a concentration in Intellectual Property and Information Law. She is a Certified Information Privacy Professional (CIPP/US) and a Certified Information Privacy Manager (CIPM).
 
 ![](images/gabe_profile.jpeg){width="200"}
 
