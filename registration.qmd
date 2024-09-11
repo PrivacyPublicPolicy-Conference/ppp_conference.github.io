@@ -2,7 +2,9 @@
 title: "Registration"
 ---
 
-**Registration is free** thanks to the generous support from the Alfred P. Sloan Foundation (G-2022-19513). If you would like to attend this conference, please click [here](https://forms.gle/A79uQdfmiCQvko2XA) to register!
+**Registration is free** thanks to the generous support from the Alfred P. Sloan Foundation (G-2022-19513). The registration is now closed.
+
+<!-- If you would like to attend this conference, please click [here](https://forms.gle/A79uQdfmiCQvko2XA) to register! -->
 
 <!-- General registration opens on **May 20, 2024** and closes on **August 2, 2024**. Conference attendance may be restricted due to space and funding limitations, and registration may be closed before August 2, 2024. -->
 
